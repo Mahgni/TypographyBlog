@@ -26,6 +26,8 @@ Another success story of the 1970's, Star Trek tackles a more nuanced and comple
 
 ![The original Star Trek typographic logo.](../uploads/startrek.png "The original Star Trek typographic logo.")
 
-The Star Trek typeface was ajusted for the official motion picture, taking on a sleeker, more curvaceous serifed look which combines the heritage of the show with an almost fantasy style alongside the brands already extablished sci-fi roots; a bold decision that I think works well. 
+The Star Trek typeface was ajusted for the official motion picture, taking on a sleeker, more curvaceous serifed look which combines the heritage of the show with an almost fantasy style alongside the brands already established sci-fi roots; a bold decision that I think works well. 
 
 ![The newer typeface employed by the Star Trek motion picture. ](../uploads/st2.jpg "The newer typeface employed by the Star Trek motion picture. ")
+
+Sci-Fi has a distinct style... which is unusual when you realize just how differently designers approach creating a futuristic aesthetic. One of the most interesting elements of sci-fi design is that it is very much open to interpretation; the future hasn't happened yet so whatever the designer perceives as being 'futuristic' can be run with to create a portrayal of reality that is believable in a sci-fi context, making the whole design culture one of the most open-ended and experimental in the industry.
