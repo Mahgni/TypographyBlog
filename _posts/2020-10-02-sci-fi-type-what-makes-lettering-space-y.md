@@ -21,3 +21,5 @@ Another typeface that is still prominent today would be that created for the Sta
 This typeface achieves a sleek, futuristic look that, arguably unlike *Computerfont*, still holds up in 2020. Thick, clear lettering combined with the occasionsal bold, modern serifs and a monospaced design exellently encapsulate the galaxy-at-war style aesthetic that George Lucas was creating the Star Wars universe. In the iconic Star Wars logo, the text is also transparent with a bright yellow highlight, giving the already futuristic typeface a sci-fi twist. 
 
 ![The original Star Wars Logo created by Suzy Rice in 1977. ](../uploads/star_wars_logo_suzy_rice_3-1-1.png "The original Star Wars Logo created by Suzy Rice in 1977. ")
+
+Another success story of the 1970's, Star Trek tackles a more nuanced and complex story in the form of a character drama set in a distant future. Its typographical design reflects this with elements also seen in the Star Wars design however with a thinner, taller appearance and more extreme angles
