@@ -11,3 +11,5 @@ If you were to imagine a typeface from the distant future, what would it look li
 A good example of this design mindset comes in the form of the Computerfont typeface that was prevelant thoughout the seventies not just in sci-fi media, but in anything that wanted to appear futuristic and up-to-date... most notably mathmatics text books. 
 
 ![An example of one of the various iterations of Computerfont. ](../uploads/computerfont.png "An example of one of the various iterations of Computerfont. ")
+
+Computerfont is definted by its sharp increases and decreases in contrast. I believe this was originally done to make the font appear visually distinctive on the primitive screens of the time by having clear protrusions that could be displayed more easily on low resolution screens. This design choice may have also stemmed from the desire to create a visaually appealing typeface that would be completely computer-centric which, at the time, would have been a completely reasonable assumption due to the rapidly growing computer market.
