@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Text & Tempo: Heavy Metal "
-date: 2020-10-02T13:09:51.337Z
+date: 2020-09-28T13:09:00.000Z
 header_feature_image: ../uploads/antoine-julien-metal.jpeg
 caption: "Exploring the typefaces of heavy metal music. Banner image courtesy of
   Antoine Julian. "
