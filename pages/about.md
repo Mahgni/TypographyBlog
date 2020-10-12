@@ -23,3 +23,5 @@ If you are interested in making a contribution to the page, please contact me at
 My websites logo was created using Adobe Illustrator and incorporates a splitting of the central text, portraying the breaking of complexity in the world of typographic design, hence the mission statement of this blog. 
 
 I wanted to create a modern looking logo without sacrificing the heritage of the topic, hence the choice of Helvetica for the lettering and the modern yet inviting pastel green colouration.
+
+I use the typeface Josefin Sans for the rest of the text on the website for broadly the same reason; a modern aesthetic without being distracting or difficult to read.
