@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: BREAKTEXT
 subtitle: "Exposing the often overlooked world of typographic design. "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/aboutmebackground.jpg
+header_feature_image: ../uploads/about.jpg
 published: true
 tags: null
 description: null
