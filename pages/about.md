@@ -18,8 +18,8 @@ If you are interested in making a contribution to the page, please contact me at
 
 **Logo**
 
-![Full scale render of the BREAKTEXT logo. ](../uploads/breaktextlogosgreen-xxx-.png "Full scale render of the BREAKTEXT logo. ")
+![Full scale render of the BREAKTEXT logo & favicon. ](../uploads/breaktextlogosgreen-xxx-.png "Full scale render of the BREAKTEXT logo & favicon. ")
 
-My websites logo was created using Adobe InDesign and incorporates a splitting of the central text, portraying the breaking of complexity in the world of typographic design, hence the mission statement of this blog. 
+My websites logo was created using Adobe Illustrator and incorporates a splitting of the central text, portraying the breaking of complexity in the world of typographic design, hence the mission statement of this blog. 
 
-![](../uploads/breaktextlogosgreen-xxx-.png)
+I wanted to create a modern looking logo without sacrificing the heritage of the topic, hence the choice of Helvetica for the lettering and the modern yet inviting pastel green colouration.
