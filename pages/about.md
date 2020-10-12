@@ -15,3 +15,11 @@ BREAKTEXT aims to create a hub for content on, and examples of, interesting and 
 My name is Seb Ingham, I'm from Oxford and I'm the main contributor to the BREAKTEXT project. I'm a student at Oxford Brookes University currently in my second year of my bachelors degree in Media, Publishing and Journalism. 
 
 If you are interested in making a contribution to the page, please contact me at: 19036711@brookes.ac.uk
+
+**Logo**
+
+![Full scale render of the BREAKTEXT logo. ](../uploads/breaktextlogosgreen-xxx-.png "Full scale render of the BREAKTEXT logo. ")
+
+My websites logo was created using Adobe InDesign and incorporates a splitting of the central text, portraying the breaking of complexity in the world of typographic design, hence the mission statement of this blog. 
+
+![](../uploads/breaktextlogosgreen-xxx-.png)
