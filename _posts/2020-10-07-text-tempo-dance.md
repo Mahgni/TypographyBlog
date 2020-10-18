@@ -28,6 +28,4 @@ Hip-Hop has also introduced its own design elements into EDM, specifically withi
 
 ![Art for the single 'SELECTA 19' by JOYRYDE (2019) ](../uploads/j.png "Art for the single 'SELECTA 19' by JOYRYDE (2019) ")
 
-BLVCK MVGIC's art incorporates elements of anger rap with a violent, scrawled typeface while SELECTA 19 has a lot more of a classic gangsta rap look with thick clear text in a bold colour. Revolution's art is somewhere in-between, incorporating a clear yet cartoony font similar to that used by *Eminem* in the mid 2000's. 
-
-Because of the genre's breadth, all sorts of different design styles appear in dance.
+BLVCK MVGIC's art incorporates elements of anger rap with a violent, scrawled typeface while SELECTA 19 has a lot more of a classic gangsta rap look with thick clear text in a bold colour. Revolution's art is somewhere in-between, incorporating a clear yet cartoony font similar to that used by *Eminem* in the mid 2000's.
