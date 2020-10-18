@@ -20,10 +20,12 @@ However, dance music is an incredibly vast genre that covers a multitude of diff
 
 ![](../uploads/k.png)
 
-Hip-Hop has also introduced its own design elements into EDM, specifically within the trap sub-genre. Artists like *Kill the Noise, Diplo* and *JOYRYDE* have been major players in developing the trap sound as well as the distinctive visual design, aping several different elements of hip-hop which can differ significantly. 
+Hip-Hop has also introduced its own design elements into EDM, specifically within the trap sub-genre. Artists like *Kill the Noise, Diplo* and *JOYRYDE* have been major players in developing the trap sound as well as the distinctive visual design, aping several different elements of hip-hop which can differ significantly.
 
 ![Art for the 'BLVCK MVGIC' EP by Kill the Noise (2012) ](../uploads/ktn.jpg "Art for the 'BLVCK MVGIC' EP by Kill the Noise (2012) ")
 
 ![Art for the 'Revolution' EP by Diplo (2013) ](../uploads/dipp.jpg "Art for the 'Revolution' EP by Diplo (2013) ")
 
 ![Art for the single 'SELECTA 19' by JOYRYDE (2019) ](../uploads/j.png "Art for the single 'SELECTA 19' by JOYRYDE (2019) ")
+
+BLVCK MVGIC's art incorporates elements of anger rap with a violent, scrawled typeface while SELECTA 19 has a lot more of a classic gangsta rap look with thick clear text in a bold colour. Revolution's art is somewhere in-between, incorporating a clear yet cartoony font similar to that used by *Eminem* in the early-to-mid 2000's.
