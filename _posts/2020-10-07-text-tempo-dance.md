@@ -14,7 +14,7 @@ Modern, sans-serif, thick lettering is often at the heart of dance music's visua
 
 ![Album art from Stories by Avicii (2015) ](../uploads/stories.jpeg "Album art from Stories by Avicii (2015) ")
 
-However, dance music is an incredibly vast genre that covers a multitude of different styles and influences from other genres. Design elements not dissimilar from rock and metal can be seen in the logos and branding typography of Sonny 'Skrillex' Moore and DJ duo Krewella. 
+However, dance music is an incredibly vast genre that covers a multitude of different styles and influences from other genres. Design elements not dissimilar from rock and metal can be seen in the logos and branding typography of Sonny '*Skrillex*' Moore and DJ duo *Krewella*. 
 
 ![](../uploads/640px-skrillex.svg.png)
 
