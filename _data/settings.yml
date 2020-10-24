@@ -4,9 +4,9 @@ description: "A blog covering typography and highlighting its use and importance
 header_text: "Breaking the complexity of typographic design. "
 footer_text: Copyright 2020 Seb Ingham
 header_feature_image: ../uploads/cristagupa.jpg
-bannerheight: 40vmax
+bannerheight: 100vh
 logo: ../uploads/btfavicon.png
 favicon: ../uploads/btfavicon.png
-gridlayout: false
+gridlayout: true
 fixednavbar: true
 upzoom: true
