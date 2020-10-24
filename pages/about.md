@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-subtitle: "Exposing the often overlooked world of typographic design. "
+subtitle: ""
 permalink: /about/
 date: 2020-10-24T14:50:32.604Z
-header_feature_image: ../uploads/paulosilva.jpg
+header_feature_image: ../uploads/nik-shuliahin-c2cypenz7la-unsplash.jpg
 published: true
 tags: null
 description: null
