@@ -6,7 +6,9 @@ header_feature_image: ../uploads/alex-popov.jpeg
 caption: Banner courtesy of Alexander Popov.
 comments: true
 ---
-Few music genres state their intentions explicitly though their names... with one significant exception. Dance music is entirely focused on making the listener move; pump up clubs and rattle car sound systems with its heavy 4/4 bass lines and dramatic, feel-good synth melodies. 
+Few music genres state their intentions explicitly though their names... with one significant exception. 
+
+Dance music is entirely focused on making the listener move; pump up clubs and rattle car sound systems with its heavy 4/4 bass lines and dramatic, feel-good synth melodies. 
 
 Dance music (often referred to as EDM; electronic dance music) has some of the most energetic and stylised design ethics within the music industry, placing focus on both the energy of the music and the euphoric atmosphere that it aims to produce. 
 
