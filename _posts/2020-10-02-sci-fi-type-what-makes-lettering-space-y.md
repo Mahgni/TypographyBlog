@@ -6,7 +6,9 @@ header_feature_image: ../uploads/charlie-seaman-kxbpudajnly-unsplash.jpg
 caption: "Banner courtesy of Charlie Seaman. "
 comments: true
 ---
-If you were to imagine a typeface from the distant future, what would it look like? Would we marvel at its brilliance or question its other-worldliness? Would typefaces even still be relevant forms of design? Graphic designers were faced with these questions when sci-fi culture began to take off in the early 70s; directors and authors needed a style that, at a glance could let the viewer know that whatever media the type was emblazoned upon fell into the science-fiction genre. 
+If you were to imagine a typeface from the distant future, what would it look like? Would we marvel at its brilliance or question its other-worldliness? Would typefaces even still be relevant forms of design? 
+
+Graphic designers were faced with these questions when sci-fi culture began to take off in the early 70s; directors and authors needed a style that, at a glance could let the viewer know that whatever media the type was emblazoned upon fell into the science-fiction genre. 
 
 'Sci-Fi' style typefaces are especially interesting since they often depict the design languages that the designers imagine becoming prevalent in the future, making them interesting snapshots into what direction artists and designers believes their industries were going at the time of the typefaces creation.
 
