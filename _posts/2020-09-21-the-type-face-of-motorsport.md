@@ -2,7 +2,7 @@
 layout: post
 title: The (Type)Face of Motorsport
 date: 2020-09-21T18:23:20.051Z
-header_feature_image: ../uploads/elonzo.jpg
+header_feature_image: ../uploads/2020-70th-anniversary-grand-prix-sunday-4-scaled.jpg
 caption: "How motorsports presents itself thought its text and typography.
   Banner courtesy of Motorsport Images. "
 comments: true
