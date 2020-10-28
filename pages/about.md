@@ -10,9 +10,15 @@ tags: null
 description: null
 show: true
 ---
+**About the Brand**
+
 BREAKTEXT aims to create a hub for content on, and examples of, interesting and useful forms of typography and its usage in the modern world. 
 
 We cover topics from every corner of society to get the broadest, most inclusive view of the modern world of type. 
+
+**Web Design**
+
+The BREAKTEXT website is characterised by its prominent imagery of New York City's Times Square. This is because I believe it to be one of the most important sites on earth when it comes to typography. 
 
 **Logo**
 
