@@ -10,7 +10,7 @@ tags: null
 description: null
 show: true
 ---
-**About the Brand**
+**The Brand**
 
 BREAKTEXT aims to create a hub for content on, and examples of, interesting and useful forms of typography and its usage in the modern world. 
 
