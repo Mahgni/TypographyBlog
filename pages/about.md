@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Site
+title: About the Website
 subtitle: ""
 permalink: /about/
 date: 2020-10-24T14:50:32.604Z
