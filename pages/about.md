@@ -18,7 +18,9 @@ We cover topics from every corner of society to get the broadest, most inclusive
 
 **Web Design**
 
-The BREAKTEXT website is characterised by its prominent imagery of New York City's Times Square. This is because I believe it to be one of the most important sites on earth when it comes to typography. 
+The BREAKTEXT website is characterised by its prominent imagery of New York City's Times Square. This is because I believe it to be one of the most important sites on earth when it comes to typography. Hundreds of ads appear on the big screens every day and are seen by millions globally, making it one of the most intensive physical marketing landscapes anywhere. 
+
+The font used everywhere (excluding the BREAKTEXT logo) is Monserrat. This font was chosed due to it's modern elegance; a strong combination of 
 
 **Logo**
 
