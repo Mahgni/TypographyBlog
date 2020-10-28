@@ -3,14 +3,14 @@ layout: page
 title: About the Website
 subtitle: ""
 permalink: /about/
-date: 2020-10-24T14:50:32.604Z
+date: 2020-10-28T17:40:15.654Z
 header_feature_image: ../uploads/nik-shuliahin-c2cypenz7la-unsplash.jpg
 published: true
 tags: null
 description: null
 show: true
 ---
-**About the Brand**
+**The Brand**
 
 BREAKTEXT aims to create a hub for content on, and examples of, interesting and useful forms of typography and its usage in the modern world. 
 
