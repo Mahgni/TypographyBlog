@@ -12,4 +12,6 @@ The world is a big place! Thousands and thousands of unique cultures, languages 
 
 Let's take a look at some of the typefaces that have managed to permeate universal design. These typefaces appear frequently across the globe and are therefore technically some of the most famous pieces of graphic design ever created... however, possibly also some of the most overlooked.  
 
-At No. 10 is *Furtiger*, designed by Adrian Frutiger in 1977.
+At No. 10 is *Furtiger*, designed by Adrian Frutiger in 1977. 
+
+![The Frutiger Typeface. ](../uploads/frutiger.png "The Frutiger Typeface. ")
