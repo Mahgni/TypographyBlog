@@ -28,4 +28,8 @@ No. 6 is **Bodoni**, created by Giambattista Bodoni in 1790.
 
 ![The Bodoni Typeface.](../uploads/bodoniw.png "The Bodoni Typeface. ")
 
-Bodoni is characterised by its classy, luxurious appearance, making it the favourite choice for many luxury brands worldwide. It has made many appearences in cinema too, most notably being used in the marketing for *Goodfellas*.
+Bodoni is characterised by its classy, luxurious appearance, making it the favourite choice for many luxury brands worldwide. It has made many appearences in cinema too, most notably being used in the marketing for *Goodfellas*. 
+
+**Gotham** comes at No. 5, designed by Hoefler and Frere-Jones in 2000. 
+
+![The Gotham Typeface. ](../uploads/gotham.png "The Gotham Typeface. ")
