@@ -2,6 +2,8 @@
 layout: post
 title: "Brand of the People: Type Around the World"
 date: 2020-10-02T13:12:32.159Z
+header_feature_image: ../uploads/chrislawton.jpg
+caption: "Banner image courtesy of Chris Lawton. "
 comments: true
 tags:
   - Culture
