@@ -8,4 +8,4 @@ comments: true
 tags:
   - Culture
 ---
-World type
+The world is a big place! Thousands and thousands of unique cultures, languages and outlooks make up planet Earth today, and with that massive scope comes a myriad of design philosophies and ideas.
