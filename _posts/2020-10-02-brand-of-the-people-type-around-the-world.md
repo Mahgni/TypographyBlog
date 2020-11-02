@@ -40,4 +40,6 @@ Finally, for this synopsis, we jump to No. 1 which is, of course, **Helvetica**,
 
 ![The Helvetica Typeface. ](../uploads/helvetica.png)
 
-For many designers, Helvetica represents the perfect typeface: modern, elegant, smart, easily legible and smooth; an impressive feat considering the fonts age.
+For many designers, Helvetica represents the perfect typeface: modern, elegant, smart, easily legible and smooth; an impressive feat considering the fonts age. It is the official typeface of the UK government and even has versions in languages with completely different alphabets such as Arabic and Hebrew! 
+
+In 2020, creating a new typeface is easier than ever and, with such an open and accessible entry point, who knows where the next iconic typeface will come from...
