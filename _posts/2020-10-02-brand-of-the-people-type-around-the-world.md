@@ -23,3 +23,5 @@ In at No. 8 is **Futura**, designed by Paul Renner in 1927.
 ![The Futura Typeface. ](../uploads/futura.png "The Futura Typeface. ")
 
 Futura has become well known for its highly geometric design, finding extensive use in marketing and becoming the headline font for the Volkswagen car company and the Supreme fashion brand to name a few.
+
+No. 6 is **Bodoni**, created by Giambattista Bodoni in 1790.
