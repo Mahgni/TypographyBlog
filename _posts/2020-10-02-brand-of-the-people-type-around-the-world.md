@@ -33,3 +33,5 @@ Bodoni is characterised by its classy, luxurious appearance, making it the favou
 **Gotham** comes at No. 5, designed by Hoefler and Frere-Jones in 2000. 
 
 ![The Gotham Typeface. ](../uploads/gotham.png "The Gotham Typeface. ")
+
+Gotham is the most recent font to make the list and, for its age, has popularised remarkably quickly. Based on a 20th century signage design of the same name, Gotham has appeared universally as one of the standards, finding use in Barack Obama's 2008 political campaign marketing as well as being the brand font for Michigan State University.
