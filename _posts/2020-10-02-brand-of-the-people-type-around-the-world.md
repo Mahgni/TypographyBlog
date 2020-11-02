@@ -16,4 +16,4 @@ At No. 10 is *Furtiger*, designed by Adrian Frutiger in 1977.
 
 ![The Frutiger Typeface. ](../uploads/frutiger.png "The Frutiger Typeface. ")
 
-This stylish, modern font was initially commissioned for the signage of a new airport in Paris but has since become a staple of modern typographic design, finding use as the font of choice for the NHS and the WHO.
+This stylish, modern sans-serif font was initially commissioned for the signage of a new airport in Paris but has since become a staple of modern typographic design, finding use as the font of choice for the NHS and the WHO.
