@@ -3,8 +3,7 @@ layout: post
 title: "Text & Tempo: Heavy Metal "
 date: 2020-09-28T13:09:00.000Z
 header_feature_image: ../uploads/antoine-julien-metal.jpeg
-caption: "Exploring the typefaces of heavy metal music. Banner image courtesy of
-  Antoine Julian. "
+caption: "Exploring the typefaces of heavy metal music. "
 comments: true
 tags:
   - Music
@@ -40,3 +39,5 @@ Other bands take this idea a step further, *TesseracT* often does away with text
 ![Album art for Kscope by TesseracT.](../uploads/tesseract-polaris-errai.jpg "Album art for Kscope by TesseracT.")
 
 To some, metal will always be just noise. However, the typography and design of the genre tells a different story, often portraying the more nuanced sides behind the often chaotic exterior. Whether distorted guitars and screaming vocalists appeal to you or not, nothing can take away from the inarguable impact that metal music has had on the industry and, by extension, the effect that its visual style has had on modern design philosophy as a whole.
+
+Banner image courtesy of Antoine Julian on Unsplash.
