@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sci-Fi-Type: What Makes Lettering Space-y?"
-date: 2020-10-02T13:08:32.993Z
+date: 2020-10-10T13:08:32.993Z
 header_feature_image: ../uploads/charlie-seaman-kxbpudajnly-unsplash.jpg
 caption: "Banner courtesy of Charlie Seaman. "
 comments: true
