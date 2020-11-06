@@ -35,3 +35,5 @@ The Star Trek typeface was adjusted for the official motion picture, taking on a
 ![The newer typeface employed by the Star Trek motion picture. ](../uploads/st2.jpg "The newer typeface employed by the Star Trek motion picture. ")
 
 Sci-Fi has a distinct style... which is unusual when you realize just how differently designers approach creating a futuristic aesthetic. One of the most interesting elements of sci-fi design is that it is very much open to interpretation; obviously, the future hasn't happened yet so whatever the designer perceives as being 'futuristic' can be run with to create a portrayal of reality that is believable in a sci-fi context, making the whole design culture one of the most open-ended and experimental in the industry.
+
+Banner courtesy of Charlie Seaman on Unspash.
