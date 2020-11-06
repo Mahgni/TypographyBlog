@@ -33,3 +33,5 @@ Hip-Hop has also introduced its own design elements into EDM, specifically withi
 BLVCK MVGIC's art incorporates elements of anger rap with a violent, scrawled typeface while SELECTA 19 has a lot more of a classic gangsta rap look with thick clear text in a bold colour. Revolution's art is somewhere in-between, incorporating a clear yet cartoony font similar to that used by *Eminem* in the mid 2000's. 
 
 Despite what many may claim, dance music is a highly varied and intricate genre with just as much depth of meaning as any other genre. While many are attracted to the music for its simplicity, it is clearly seen though the design styles associated with the music that there is much more to this genre than first meets the eye.
+
+Banner courtesy of Alexander Popov on Unsplash.
