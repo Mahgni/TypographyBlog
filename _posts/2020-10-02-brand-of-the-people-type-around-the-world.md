@@ -44,4 +44,4 @@ For many designers, Helvetica represents the perfect typeface: modern, elegant, 
 
 In 2020, creating a new typeface is easier than ever and, with such an open and accessible entry point, who knows where the next iconic typeface will come from...
 
-Banner image courtesy of Chris Lawton on Unsplash <3
+Banner image courtesy of Chris Lawton on Unsplash.
