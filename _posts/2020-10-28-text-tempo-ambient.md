@@ -12,4 +12,10 @@ How do you visually portray a genre of music that often doesn't have vocals, use
 
 Ambient music began to grow in popularity in the mid-to-late 90s with techniques like tape looping and has continued to grow until this day with evolution and fusion genres like lo-fi hiphop achieving massive success. 
 
-From a design perspective, ambient music has naturally adopted the design traits of its sound, alongside a modern and often highly minimalist aesthetic.
+From a design perspective, ambient music has naturally adopted the design traits of its sound, alongside a modern and often highly minimalist aesthetic. 
+
+A good example of this would be Andrew Huang's 2017 album, *The Lyres in Trees.* 
+
+![Album art for The Lyres in Trees by Andrew Huang (2017) ](../uploads/ah.jpg "Album art for The Lyres in Trees by Andrew Huang (2017) ")
+
+This aesthetic is the most common interpretation of ambient music throughout the genre; clean, minimalist and often natural imagery with little stylisation or extra visual noise.
