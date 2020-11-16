@@ -27,3 +27,11 @@ This minimalism can be taken to extreme lengths as seen in the design of the alb
 ![Album art for Forever Hum by Cory Allen (2020) ](../uploads/fh.jpeg "Album art for Forever Hum by Cory Allen (2020) ")
 
 This art boils down the ambient style to its barest form, removing text entirely and focusing on a single combination of colours to achieve an atmosphere of calm and serenity, a perfect match for the sound of the album.
+
+While more contemporary ambient music is less common, it is still an important and much-loved part of the genre. Core Memory Unwound by Christopher Tignor is a great example of this sub-genre, expelling in creating ambient music using more traditional instruments like pianos and violins as well as making use of chapel halls for natural reverb.
+
+![Album art for Core Memory Unwound by Christopher Tignor (2009) ](../uploads/cmu.jpg "Album art for Core Memory Unwound by Christopher Tignor (2009) ")
+
+While this artwork sticks with the traditional ambient format, it echos a more classical theme. The small, inconspicuous text combined with the largely empty frame and lack of colours suggest a more somber and weathered story.
+
+For a genre of music that consists of so little tangible sound, ambient has created a surprisingly consistent theme in its visual design and, while it certainly takes inspiration from the modern, minimalist trends, I believe it is also highly recognisable and emotive in its own right.
