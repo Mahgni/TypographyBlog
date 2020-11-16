@@ -8,4 +8,4 @@ comments: true
 tags:
   - Music
 ---
-How do you describe a genre of music
+How do you visually portray a genre of music that often doesn't have vocals, often only uses computerised sounds and doesn't even have a beat?
