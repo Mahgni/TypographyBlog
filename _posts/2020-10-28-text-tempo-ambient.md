@@ -10,4 +10,6 @@ tags:
 ---
 How do you visually portray a genre of music that often doesn't have vocals, uses mostly computerised sounds and sometimes doesn't even have a beat? 
 
-Ambient music began to grow in popularity in the mid-to-late 90s with techniques like tape looping and has continued to grow until this day with evolution and fusion genres like lo-fi hiphop achieving massive success.
+Ambient music began to grow in popularity in the mid-to-late 90s with techniques like tape looping and has continued to grow until this day with evolution and fusion genres like lo-fi hiphop achieving massive success. 
+
+From a design perspective, ambient music has naturally adopted the design traits of its sound, alongside a modern and often highly minimalist aesthetic.
